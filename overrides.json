@@ -1,11 +1,107 @@
 {
-  "version": 2,
+  "version": 3,
   "teams": {
-    "135737": { "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/135737.png" },
-    "95968": { "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/95968.png" },
-    "137488": { "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/137488.png" }
+    "135737": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/135737.png"
+    },
+    "95968": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/95968.png"
+    },
+    "137488": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/137488.png"
+    }
   },
   "players": {
-    "50961090": { "name": "赖斯-凯拉" }
+    "50961090": {
+      "name": "赖斯-凯拉"
+    },
+    "50048718": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50048718.png"
+    },
+    "50061511": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50061511.png"
+    },
+    "50117847": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50117847.png"
+    },
+    "50120577": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50120577.png"
+    },
+    "50180236": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50180236.png"
+    },
+    "50230636": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50230636.png"
+    },
+    "50236411": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50236411.png"
+    },
+    "50265214": {
+      "name":"沃伦-奥霍拉",
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50265214.png"
+    },
+    "50267295": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50267295.png"
+    },
+    "50267730": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50267730.png"
+    },
+    "50395339": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50395339.png"
+    },
+    "50435379": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50435379.png"
+    },
+    "50457253": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50457253.png"
+    },
+    "50482131": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50482131.png"
+    },
+    "50492588": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50492588.png"
+    },
+    "50495586": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50495586.png"
+    },
+    "50505321": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50505321.png"
+    },
+    "50570711": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50570711.png"
+    },
+    "50619892": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50619892.png"
+    },
+    "50659806": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50659806.png"
+    },
+    "50778435": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50778435.png"
+    },
+    "50780159": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50780159.png"
+    },
+    "50780977": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50780977.png"
+    },
+    "50888407": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50888407.png"
+    },
+    "50890203": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50890203.png"
+    },
+    "50948660": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50948660.png"
+    },
+    "50961091": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50961091.png"
+    },
+    "50961101": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50961101.png"
+    },
+    "51047811": {
+      "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/51047811.png"
+    }
   }
 }
