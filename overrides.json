@@ -1,7 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "teams": {
     "135737": { "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/135737.png" }
+    "95968": { "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/95968.png" }
   },
   "players": {
     "50961090": { "name": "赖斯-凯拉" }
