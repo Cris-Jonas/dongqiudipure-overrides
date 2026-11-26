@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "teams": {
     "95968": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/95968.png"
@@ -155,6 +155,79 @@
       "academyPlayers": [],
       "coaches": []
     },
+    "50095967": {
+      "players": [
+        {
+          "name": "Delight",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089417110_LCK_HLE_Delight_F.PNG"
+        },
+        {
+          "name": "Kanavi",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089425886_LCK_HLE_Kanavi_F.PNG"
+        },
+        {
+          "name": "Gumayusi",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089421483_LCK_HLE_Gumayusi_F.PNG"
+        },
+        {
+          "name": "Bluffing",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769086484481_image6-2026-01-22T135420.093.png"
+        },
+        {
+          "name": "Zeka",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089430303_LCK_HLE_Zeka_F.PNG"
+        },
+        {
+          "name": "Canyon",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842984822_LCK_GEN_Canyon_F.PNG"
+        }
+      ],
+      "academyPlayers": [
+        {
+          "name": "Cracker",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769086419226_image6-2026-01-22T135315.938.png"
+        },
+        {
+          "name": "Valiant",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769086142550_image6-2026-01-22T134839.572.png"
+        },
+        {
+          "name": "Panther",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769086291531_image6-2026-01-22T135105.756.png"
+        },
+        {
+          "name": "Jackal",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769086354742_image6-2026-01-22T135205.457.png"
+        },
+        {
+          "name": "Pyeonsik",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769086215440_image6-2026-01-22T134944.828.png"
+        }
+      ],
+      "coaches": []
+    },
     "50095968": {
       "players": [
         {
@@ -182,16 +255,16 @@
           "photoUrl": "https://static.lolesports.com/players/1778842963805_LCK_GEN_Kiin_F.PNG"
         },
         {
-          "name": "Canyon",
-          "role": "jungle",
-          "nationality": "韩国",
-          "photoUrl": "https://static.lolesports.com/players/1778842984822_LCK_GEN_Canyon_F.PNG"
-        },
-        {
           "name": "Siwoo",
           "role": "top",
           "nationality": "韩国",
           "photoUrl": "https://static.lolesports.com/players/1778842731846_LCK_DK_Siwoo_F.PNG"
+        },
+        {
+          "name": "Cloud",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769083077918_image6144.png"
         }
       ],
       "academyPlayers": [
@@ -298,6 +371,96 @@
         }
       ],
       "coaches": []
+    },
+    "50096406": {
+      "players": [
+        {
+          "name": "Doran",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769087520664_LCK_T1_Doran_F.PNG"
+        },
+        {
+          "name": "Faker",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769087499078_LCK_T1_Faker_F.PNG"
+        },
+        {
+          "name": "Oner",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769087509929_LCK_T1_Oner_F.PNG"
+        },
+        {
+          "name": "Keria",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769087515444_LCK_T1_Keria_F.PNG"
+        },
+        {
+          "name": "Painter",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769084021546_image6-2026-01-22T131032.591.png"
+        },
+        {
+          "name": "Peyz",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769087491906_LCK_T1_Peyz_F.PNG"
+        },
+        {
+          "name": "Zeus",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089435131_LCK_HLE_Zeus_F.PNG"
+        }
+      ],
+      "academyPlayers": [
+        {
+          "name": "Guardian",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769083424311_image6-2026-01-22T130312.532.png"
+        },
+        {
+          "name": "Haetae",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769083792191_image6-2026-01-22T130909.603.png"
+        },
+        {
+          "name": "Carim",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://assets.sheepesports.com/esports/lol/players/Carim.png"
+        },
+        {
+          "name": "Guti",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769083583495_image6-2026-01-22T130511.010.png"
+        },
+        {
+          "name": "Cypher",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769083165855_image6-2026-01-22T125855.379.png"
+        },
+        {
+          "name": "Eclipse",
+          "role": "bottom",
+          "nationality": "韩国"
+        },
+        {
+          "name": "Jinbeom",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://assets.sheepesports.com/esports/lol/players/Jinbeom.png"
+        }
+      ],
+      "coaches": []
     }
   },
   "transfers": [
@@ -306,6 +469,27 @@
       "player": "Siwoo",
       "role": "top",
       "from": "50096114",
+      "to": "50095968"
+    },
+    {
+      "date": "2026-11-24",
+      "player": "Canyon",
+      "role": "jungle",
+      "from": "50095968",
+      "to": "50095967"
+    },
+    {
+      "date": "2026-11-25",
+      "player": "Zeus",
+      "role": "top",
+      "from": "50095967",
+      "to": "50096406"
+    },
+    {
+      "date": "2026-11-24",
+      "player": "Cloud",
+      "role": "support",
+      "from": "50096406",
       "to": "50095968"
     }
   ]
