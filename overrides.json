@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "teams": {
     "95968": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/95968.png"
@@ -16,6 +16,12 @@
     "50096114": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096114.png",
       "crestUrlDark": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096114-dark.png"
+    },
+    "50096406": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096406.png"
+    },
+    "50148205": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50148205.png"
     }
   },
   "players": {
@@ -265,6 +271,12 @@
           "role": "support",
           "nationality": "韩国",
           "photoUrl": "https://static.lolesports.com/players/1769083077918_image6144.png"
+        },
+        {
+          "name": "Sharvel",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://assets.sheepesports.com/esports/lol/players/Sharvel.png"
         }
       ],
       "academyPlayers": [
@@ -332,6 +344,12 @@
           "role": "jungle",
           "nationality": "韩国",
           "photoUrl": "https://static.lolesports.com/players/1778842716183_LCK_DK_Lucid_F.PNG"
+        },
+        {
+          "name": "Doran",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769087520664_LCK_T1_Doran_F.PNG"
         }
       ],
       "academyPlayers": [
@@ -374,12 +392,6 @@
     },
     "50096406": {
       "players": [
-        {
-          "name": "Doran",
-          "role": "top",
-          "nationality": "韩国",
-          "photoUrl": "https://static.lolesports.com/players/1769087520664_LCK_T1_Doran_F.PNG"
-        },
         {
           "name": "Faker",
           "role": "mid",
@@ -461,6 +473,84 @@
         }
       ],
       "coaches": []
+    },
+    "50148205": {
+      "players": [
+        {
+          "name": "Quantum",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769088918397_image6-2026-01-22T143449.651.png"
+        },
+        {
+          "name": "DuDu",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769090757762_LCK_DNS_DuDu_F.PNG"
+        },
+        {
+          "name": "Clozer",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769090740623_LCK_DNS_Clozer_F.PNG"
+        },
+        {
+          "name": "deokdam",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769090748726_LCK_DNS_deokdam_F.PNG"
+        },
+        {
+          "name": "Peter",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769090762247_LCK_DNS_Peter_F.PNG"
+        },
+        {
+          "name": "Enosh",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089101112_image6-2026-01-22T143756.610.png"
+        },
+        {
+          "name": "DDoiV",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089231683_image6-2026-01-22T143929.578.png"
+        },
+        {
+          "name": "Life",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769090753765_LCK_DNS_Life_F.PNG"
+        },
+        {
+          "name": "Pyosik",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769090766931_LCK_DNS_Pyosik_F.png"
+        }
+      ],
+      "academyPlayers": [
+        {
+          "name": "Lancer",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769088987064_image6-2026-01-22T143604.524.png"
+        },
+        {
+          "name": "Flip",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089040652_image6-2026-01-22T143659.183.png"
+        },
+        {
+          "name": "Revenge",
+          "role": "bottom",
+          "nationality": "韩国"
+        }
+      ],
+      "coaches": []
     }
   },
   "transfers": [
@@ -490,6 +580,20 @@
       "player": "Cloud",
       "role": "support",
       "from": "50096406",
+      "to": "50095968"
+    },
+    {
+      "date": "2026-11-20",
+      "player": "Doran",
+      "role": "top",
+      "from": "50096406",
+      "to": "50096114"
+    },
+    {
+      "date": "2026-11-24",
+      "player": "Sharvel",
+      "role": "jungle",
+      "from": "50148205",
       "to": "50095968"
     }
   ]
