@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "teams": {
     "95968": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/95968.png"
@@ -25,6 +25,12 @@
     },
     "50096406": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096406.png"
+    },
+    "50096420": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096420.png"
+    },
+    "50096423": {
+      "name": "TH"
     },
     "50148205": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50148205.png"
@@ -386,6 +392,7 @@
         {
           "name": "Nevid",
           "role": "top",
+          "nationality": "韩国",
           "photoUrl": "https://static.lolesports.com/players/1769089783078_image6-2026-01-22T144919.671.png"
         },
         {
