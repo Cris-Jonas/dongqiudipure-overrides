@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "teams": {
     "95968": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/95968.png"
@@ -15,6 +15,9 @@
     },
     "50090229": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50090229.png"
+    },
+    "50096080": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096080.png"
     },
     "50096114": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096114.png",
