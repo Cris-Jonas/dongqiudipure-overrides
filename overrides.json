@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "teams": {
     "95968": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/95968.png"
@@ -12,6 +12,10 @@
     },
     "50082583": {
       "crestUrlDark": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50082583-dark.png"
+    },
+    "50096114": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096114.png",
+      "crestUrlDark": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096114-dark.png"
     }
   },
   "players": {
@@ -150,6 +154,159 @@
       ],
       "academyPlayers": [],
       "coaches": []
+    },
+    "50095968": {
+      "players": [
+        {
+          "name": "Chovy",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842975847_LCK_GEN_Chovy_F.png"
+        },
+        {
+          "name": "Ruler",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842957393_LCK_GEN_Ruler_F.PNG"
+        },
+        {
+          "name": "Duro",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842969792_LCK_GEN_Duro_F.PNG"
+        },
+        {
+          "name": "Kiin",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842963805_LCK_GEN_Kiin_F.PNG"
+        },
+        {
+          "name": "Canyon",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842984822_LCK_GEN_Canyon_F.PNG"
+        },
+        {
+          "name": "Siwoo",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842731846_LCK_DK_Siwoo_F.PNG"
+        }
+      ],
+      "academyPlayers": [
+        {
+          "name": "SIRIUSS",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769087912320_image6-2026-01-22T141807.421.png"
+        },
+        {
+          "name": "Ripple",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769087975904_image6-2026-01-22T141912.328.png"
+        },
+        {
+          "name": "Courage",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769088040791_image6-2026-01-22T142015.564.png"
+        },
+        {
+          "name": "MUDAI",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769088228177_image6-2026-01-22T142317.010.png"
+        },
+        {
+          "name": "Lumos",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769088159344_image6-2026-01-22T142218.990.png"
+        },
+        {
+          "name": "Kemish",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769088100524_image6-2026-01-22T142115.940.png"
+        }
+      ],
+      "coaches": []
+    },
+    "50096114": {
+      "players": [
+        {
+          "name": "ShowMaker",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842721951_LCK_DK_Showmaker_F.png"
+        },
+        {
+          "name": "Smash",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842749985_LCK_DK_Smash_F.PNG"
+        },
+        {
+          "name": "Career",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842708132_LCK_DK_Career_F.PNG"
+        },
+        {
+          "name": "Lucid",
+          "role": "jungle",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1778842716183_LCK_DK_Lucid_F.PNG"
+        }
+      ],
+      "academyPlayers": [
+        {
+          "name": "Wayne",
+          "role": "bottom",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089494861_image6-2026-01-22T144431.139.png"
+        },
+        {
+          "name": "Jaehyuk",
+          "role": "top",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089631457_image6-2026-01-22T144643.456.png"
+        },
+        {
+          "name": "Garden",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089555344_image6-2026-01-22T144534.879.png"
+        },
+        {
+          "name": "Loopy",
+          "role": "support",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1769089723144_image6-2026-01-22T144756.107.png"
+        },
+        {
+          "name": "Nevid",
+          "role": "top",
+          "photoUrl": "https://static.lolesports.com/players/1769089783078_image6-2026-01-22T144919.671.png"
+        },
+        {
+          "name": "Solid",
+          "role": "jungle",
+          "nationality": "韩国"
+        }
+      ],
+      "coaches": []
     }
-  }
+  },
+  "transfers": [
+    {
+      "date": "2026-11-24",
+      "player": "Siwoo",
+      "role": "top",
+      "from": "50096114",
+      "to": "50095968"
+    }
+  ]
 }
