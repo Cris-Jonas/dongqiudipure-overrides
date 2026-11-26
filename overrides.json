@@ -1,20 +1,20 @@
 {
-  "version": 3,
+  "version": 4,
   "teams": {
-    "135737": {
-      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/135737.png"
-    },
     "95968": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/95968.png"
     },
+    "135737": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/135737.png"
+    },
     "137488": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/137488.png"
+    },
+    "50082583": {
+      "crestUrlDark": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50082583-dark.png"
     }
   },
   "players": {
-    "50961090": {
-      "name": "赖斯-凯拉"
-    },
     "50048718": {
       "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50048718.png"
     },
@@ -37,7 +37,7 @@
       "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50236411.png"
     },
     "50265214": {
-      "name":"沃伦-奥霍拉",
+      "name": "沃伦-奥霍拉",
       "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50265214.png"
     },
     "50267295": {
@@ -94,6 +94,9 @@
     "50948660": {
       "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50948660.png"
     },
+    "50961090": {
+      "name": "赖斯-凯拉"
+    },
     "50961091": {
       "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/50961091.png"
     },
@@ -102,6 +105,51 @@
     },
     "51047811": {
       "headshotUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/headshots/51047811.png"
+    }
+  },
+  "rosters": {
+    "50082583": {
+      "players": [
+        {
+          "name": "Jiejie",
+          "role": "jungle",
+          "realName": "赵礼杰",
+          "nationality": "中国",
+          "photoUrl": "https://static.lolesports.com/players/1772229587324_jiejie.png"
+        },
+        {
+          "name": "BuLLDoG",
+          "role": "mid",
+          "nationality": "韩国",
+          "photoUrl": "https://static.lolesports.com/players/1768347844999_bulldog.png"
+        },
+        {
+          "name": "Leave",
+          "role": "bottom",
+          "nationality": "中国",
+          "photoUrl": "https://static.lolesports.com/players/1772232334521_leave-Photoroom.png"
+        },
+        {
+          "name": "Parukia",
+          "role": "support",
+          "nationality": "中国",
+          "photoUrl": "https://static.lolesports.com/players/1768348863818_parukia.png"
+        },
+        {
+          "name": "Zdz",
+          "role": "top",
+          "nationality": "中国",
+          "photoUrl": "https://static.lolesports.com/players/1772232892468_zdz-Photoroom.png"
+        },
+        {
+          "name": "sinian",
+          "role": "mid",
+          "nationality": "中国",
+          "photoUrl": "https://assets.sheepesports.com/esports/lol/players/sinian.png"
+        }
+      ],
+      "academyPlayers": [],
+      "coaches": []
     }
   }
 }
