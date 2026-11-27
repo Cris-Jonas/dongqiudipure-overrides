@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "teams": {
     "50082583": {
       "crestUrlDark": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50082583-dark.png"
@@ -45,6 +45,9 @@
     "50096595": {
       "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096595-89442f19.png",
       "crestUrlDark": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50096595-dark-e30122ea.png"
+    },
+    "50097939": {
+      "crestUrlDark": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50097939-dark-82c1299b.png"
     },
     "50097985": {
       "name": "LOUD"
