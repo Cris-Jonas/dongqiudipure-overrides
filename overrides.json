@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "teams": {
     "50082583": {
       "crestUrlDark": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50082583-dark.png"
@@ -83,6 +83,9 @@
     },
     "50157660": {
       "crestUrlDark": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/50157660-dark-e68151a5.png"
+    },
+    "riot:DSG": {
+      "crestUrl": "https://cdn.jsdelivr.net/gh/Cris-Jonas/dongqiudipure-overrides@main/crests/riot-DSG-e74ff22e.png"
     }
   },
   "players": {
